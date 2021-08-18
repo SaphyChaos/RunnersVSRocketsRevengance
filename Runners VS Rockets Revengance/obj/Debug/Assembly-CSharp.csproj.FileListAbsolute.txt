@@ -1,0 +1,2 @@
+C:\Users\User\Documents\Unity Projects\JAPAN BREAK INDUSTRIES GAIDEN\JAPAN BREAK INDUSTRIES GAIDEN\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\User\Documents\Unity Projects\JAPAN BREAK INDUSTRIES GAIDEN\JAPAN BREAK INDUSTRIES GAIDEN\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
